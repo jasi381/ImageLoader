@@ -24,9 +24,9 @@ ImageLoader2.loadImageFromUrl(
 ## Dependencies
 ### This utility requires the following dependencies:
 
-#### Handler and Looper from the Android SDK for handling threads and posting actions to the main thread.
-#### BitmapFactory for decoding the input stream into a Bitmap.
-#### HttpURLConnection for establishing a connection to the image URL.
+* #### Handler and Looper from the Android SDK for handling threads and posting actions to the main thread.
+* #### BitmapFactory for decoding the input stream into a Bitmap.
+* #### HttpURLConnection for establishing a connection to the image URL.
 
 ## Note
 ### Make sure to add the following permissions in your AndroidManifest.xml file: 
