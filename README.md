@@ -1,4 +1,4 @@
-# ImageLoader2
+# ImageLoader
 
 ### A simple image loading utility for loading images from URLs in Android applications without using any third party libraries like `coil/glide`.
 
